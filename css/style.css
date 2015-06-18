@@ -27,7 +27,7 @@ nav {
 }
 
 hr {
-	width: 40%;
+	width: 65%;
 	height: 1px;
 	border: 0;
 	background-color: #000
@@ -63,7 +63,7 @@ aside p {
 }
 
 .bub {
-	color: #A4A376;
+	color: #009933;
 	text-transform: uppercase;
 	font-weight: bold;
 }
@@ -72,4 +72,29 @@ aside p {
 	color: #000;
 	text-transform: uppercase;
 	font-weight: bold !important;
+}
+
+h1 {
+	text-transform: uppercase;
+	font-size: 28px;
+}
+
+ul {
+	font-size: 20px;
+	letter-spacing: 1.5px;
+	line-height: 1.5em;
+	list-style: square;
+	padding-bottom: 18px;
+}
+
+ul p {
+	margin: 0 auto;
+	padding-bottom: 12px;
+	font-size: 18px;
+	line-height: 1em;
+	font-style: italic;
+}
+
+footer {
+	text-align: center;
 }
